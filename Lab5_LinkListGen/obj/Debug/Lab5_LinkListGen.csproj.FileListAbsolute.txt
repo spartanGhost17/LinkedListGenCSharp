@@ -1,0 +1,7 @@
+C:\Users\adamb\source\repos\Lab5_LinkListGen\Lab5_LinkListGen\obj\Debug\Lab5_LinkListGen.csprojAssemblyReference.cache
+C:\Users\adamb\source\repos\Lab5_LinkListGen\Lab5_LinkListGen\obj\Debug\Lab5_LinkListGen.csproj.CoreCompileInputs.cache
+C:\Users\adamb\source\repos\Lab5_LinkListGen\Lab5_LinkListGen\bin\Debug\Lab5_LinkListGen.exe.config
+C:\Users\adamb\source\repos\Lab5_LinkListGen\Lab5_LinkListGen\bin\Debug\Lab5_LinkListGen.exe
+C:\Users\adamb\source\repos\Lab5_LinkListGen\Lab5_LinkListGen\bin\Debug\Lab5_LinkListGen.pdb
+C:\Users\adamb\source\repos\Lab5_LinkListGen\Lab5_LinkListGen\obj\Debug\Lab5_LinkListGen.exe
+C:\Users\adamb\source\repos\Lab5_LinkListGen\Lab5_LinkListGen\obj\Debug\Lab5_LinkListGen.pdb
