@@ -1,1 +1,3 @@
-"# LinkedListGenC-" 
+ 
+"# LinkedListGenC-"
+This alorithm comes with functions like Concatanation of two linkedlist, sort, insertInOrder etc....
